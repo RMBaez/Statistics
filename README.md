@@ -22,7 +22,11 @@ Answering questions using the Statistics drop menu
 
 - <b>TryHackMe VM</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Program walk-through</h2>
+
+<b>Answer the question below <br/>
+
+Question 1: Investigate the resolved addresses. What is the IP address of the hostname starts with "bbc"?
 
 <p align="center">
 At the top of the Wireshark window, click on Statistics from the menu bar. In the drop-down, click on Resolved Addresses.: <br/>
@@ -38,3 +42,8 @@ Resolved Addresses window will pop-up. At the top of this window is a search fie
 <br />
 <br />
 Answer is 199.232.24.81: <br/>
+
+
+<br />
+<br />
+
