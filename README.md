@@ -68,3 +68,39 @@ The Conversations window will pop-up. You can see the different tabs at the top 
 <br />
 <br />
 Answer is 435: <br/>
+
+
+
+
+<h2>Program walk-through</h2>
+
+<b>Answer the question below <br/>
+How many bytes (k) were transferred from the "Micro-St" MAC address?
+
+
+<p align="center">
+Gto the menu bar and click Statistics. On the drop-down menu click Endpoints: <br/>
+<img width="1440" alt="Screenshot 2025-03-31 at 2 20 20 PM" src="https://github.com/user-attachments/assets/521ffbf1-7848-4c1d-a521-da1d84327198" />
+
+
+
+
+<br />
+<br />
+The Endpoints window will pop-up. Look at the bottom left of the window. Click the checkbox next to Name Resolution:  <br/>
+<img width="1440" alt="Screenshot 2025-03-31 at 2 22 04 PM" src="https://github.com/user-attachments/assets/5710b409-c70d-433f-b3c9-169f7c361d2d" />
+
+
+
+
+<br />
+<br />
+After checking the Name Resolution checkbox, the MAC address will now display the resolved Name. Looking down through the list, you need to find the name Micro-St. Once you find it look across the row till you get to the Bytes column, displaying the amount of Bytes that were transferred from that Name/MAC Address: <br/>
+<img width="1440" alt="Screenshot 2025-03-31 at 2 23 22 PM" src="https://github.com/user-attachments/assets/0219dbc9-9043-476d-a6a0-ecdd1bf7da3d" />
+
+<br />
+<br />
+Answer is 7474: <br/>
+
+
+
