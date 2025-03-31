@@ -44,6 +44,27 @@ Resolved Addresses window will pop-up. At the top of this window is a search fie
 Answer is 199.232.24.81: <br/>
 
 
-<br />
-<br />
 
+
+
+<h2>Program walk-through</h2>
+
+<b>Answer the question below <br/>
+What is the number of IPv4 conversations?
+
+<p align="center">
+Go to the Menu bar and click Statistics. Click on the Conversations option from the drop-down menu: <br/>
+<img width="1440" alt="Screenshot 2025-03-31 at 2 13 54 PM" src="https://github.com/user-attachments/assets/400d3db0-5bf5-47e8-a5ac-2f65929ad900" />
+
+
+
+<br />
+<br />
+The Conversations window will pop-up. You can see the different tabs at the top of this window. The tab that pertains to this question is the IPv4 tab. Look at the number on this tab, this is the answer to this question:  <br/>
+<img width="1440" alt="Screenshot 2025-03-31 at 2 16 01 PM" src="https://github.com/user-attachments/assets/3c4be1d0-663f-4d14-8779-cf4834af5f10" />
+
+
+
+<br />
+<br />
+Answer is 435: <br/>
