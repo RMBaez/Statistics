@@ -162,11 +162,12 @@ The Endpoints window will pop-up. Look at the bottom left of the window. Click t
 <br />
 <br />
 Once you reach the Address column, you will see the IPv4 address associated with Blicnet and thus the answer: <br/>
-<img width="1440" alt="Screenshot 2025-03-31 at 2 23 22 PM" src="https://github.com/user-attachments/assets/0219dbc9-9043-476d-a6a0-ecdd1bf7da3d" />
+<img width="1440" alt="Screenshot 2025-03-31 at 2 48 41 PM" src="https://github.com/user-attachments/assets/026f3975-e573-47fd-8641-38b20323e64b" />
+
 
 <br />
 <br />
-Answer is 7474: <br/>
+Answer is 188.246.82.7: <br/>
 
 
 
